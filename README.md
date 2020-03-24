@@ -19,7 +19,7 @@ Also you can give a loadable file as argument.
 
 ## Game Play
 
-<p>If you did not enter a file name as argument game will ask for board size, it could be between 3 (for 3x3) and 9 (for 9x9) , after you enter the size, initial board is created.</p>
+<p>If you did not enter a file name as argument game will ask for board size, it could be between 3 (for 3x3) and 9 (for 9x9) , after you enter the size, initial board is created. If you entered a loadable file name, board is created according to file shape. </p>
 
 Inputs|Actions
 -----|------
