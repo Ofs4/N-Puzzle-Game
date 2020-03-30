@@ -38,7 +38,7 @@ S|Makes size*size random moves to shuffle the board.
 with ‘00’s. The blank tile is marked with ‘bb’. The following is a sample file. Note that your
 board does not have to be square.There are 40 possible positions for the following
 board, which means tiles are numbered from 01 to 39. The solution always places the empty
-tile at the lower right corner.Note that max number could be 99, code does not support more than 2 digit. Also length of the rows must be equal.</p>
+tile at the lower right corner.Note that length of the rows must be equal.</p>
 
 ```
 00 00 00 00 01 02 04 05 00
